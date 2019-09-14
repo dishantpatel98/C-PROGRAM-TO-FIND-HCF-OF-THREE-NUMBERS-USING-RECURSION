@@ -1,1 +1,1 @@
-# Find-H.C.F-gf-three-number-using-recursion
+# Find-H.C.F-of-three-number-using-recursion
